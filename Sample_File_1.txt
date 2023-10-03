@@ -1,2 +1,4 @@
 Sample File line one
-new line added 
+new line added
+this line wont be committed 
+
